@@ -1,0 +1,630 @@
+Organism,Description
+Abidef,Abiotrophia defectiva
+Abio/Gran,Abiotrophia/Granulicatella species
+Achden,Achromobacter denitrificans
+Achro,Achromobacter species
+Achspe,Achromobacter species
+Achxyl,Achromobacter xylosoxidans
+Acibau,Acinetobacter baumannii
+AcibauC,Acinetobacter baumannii complex
+AcibauG,Acinetobacter baumannii genus
+Acicalcpx,Acinetobacter calcoaceticus-baumannii complex
+Acidel,Acidovorax delafieldii
+Acihae,Acinetobacter haemolyticus
+Acijoh,Acinetobacter johnsonii
+Acijun,Acinetobacter junii
+Acilwo,Acineobacter lwoffii
+Acine,Acinetobacter species genus
+Acispe,Acinetobacter species
+Aciurs,Acinetobacter ursingii
+Actact,Aggregatibacter (Actinobacillus) actinomycetemcomitans
+Actgspe,Actinotigum species
+Actinomy,Actinomyces species
+Actinoneu,Actinomyces neuii
+Actinosch,Actinotignum schaalii
+Actnos,
+Actodo,Schaalia odontolyticus (formerly Actinomyces odontolyticus) 
+Actpit,Acinetobacter pittii
+Actspe,Actinomyces species
+Acttur,Actinomyces turicensis
+Aercav,Aeromonas cavae
+Aerhyd,Aeromonas hydrophila
+Aerhydcav,Aeromonas hydrophila/cavae
+Aerhydgrp,Aeromonas hydrophila group
+Aerhydsob,Aeromonas hydrophila/sobria
+Aeroc,Aerococcus species
+AeromGp,Aeromonas group
+Aerospe,Aerococcus species
+Aersob,Aeromonas sobria
+Aerspe,Aeromonas species
+Aeruri,Aerococcus urinae
+Aerver,Aeromonas veronii
+Aervir,Aerococcus viridans
+AFB,Acid fast bacilli
+AFB Rapid,Rapidly growing acid fast bacilli
+AFB Secti,Acid-fast bacilli section
+Aggregsp,Aggregatibacter species
+Agrob,Acrobacterium species
+AlcAchgp,Alcaligenes/Achromobacter group
+Alcfae,Alcaligenes faecalis
+Alcfaespe,Alcaligenes faecalis spp faecalis
+Alcspe,Alcaligenes species
+Alpha,Alpha-hemolytic Streptococcus
+Alpnd,"Alpha-hemolytic Strep, not Group D"
+Alpnec,"Alpha-hemolytic Strep, not Group D"
+Archae,"Alpha-hemolytic Strep, not Enterococcus"
+Arthro,Arthrobacter species
+B,
+Baccac,Bacterioides caccae (Bacteroides fragilis group)
+Baccer,Bacillus cereus
+Baccergp,Bacillus cereus group
+Bacdis,Parabacteroides distasonis (formerly Bacteroides distasonis)
+Bacegg,Bacteroides eggerthii (Bacteroides fragilis group)
+Bacfra,Bacteroides fragilis
+BacfraG,Bacteroides fragilis group
+Bacil,Bacillus species
+BacNBF,"Bacteroides species, not Bacteroides fragilis group"
+Bacova,Bacteroides ovatus (Bacteroides fragilis group)
+Bacovxy,Bacteroides ovatus/xylanisolvens (Bacteroides fragilis group)
+Bacpyo,Bacteroides pyogenes
+Bacspe,Bacillus species
+Bacstr,Bacteroides stercoris (Bacteroides fragilis group)
+Bacsubgp,Bacillus subtilis group 
+Bacte,Bacteroides species
+Bacthe,Bacteroides thetaiotaomicron (Bacteroides fragilis group)
+Bacuni,Bacteroidies uniformis (Bacterioides fragilis group)
+Bacvul,Bacteroides vulgatus (Bacteroides fragilis group)
+Beta,Beta-hemolytic Streptococcus
+Bifid,Bifidobacterium species
+Bifspe,Bifidobacterium species
+Borbro,Bordetella bronchiseptica
+Borde,Bordetella species
+Borhin,Bordetella hinzii
+BorNper,Bordetella species not Bordetella pertussis
+Borspe,Bordetella species
+Bortre,Bordetella trematum
+Brecas,Brevibacterium casei
+Bredim,Brevundimonas diminuta
+Bredimves,Brevundimonas diminuta/vesicularis
+Brespe,Brevundimonas species
+Breves,Brevundimonas vesicularis
+Brevi,Brevibacillus species
+Brevibact,Brevibacterium species
+Brevu,Brevundimonas species
+Bucc,Burkholderia cepacia complex
+BuccG,Burkholderia cepacia
+Burcen,Burkholderia cenocepacia
+Burcep,Burkholderia cepacia
+Burgla,Burkholideria gladioli
+Burkh,Burkholderia species
+Burmul,Burkholderia multivorans
+Burpse,Burkholderia pseudomallei
+Burspe,Burkholderia species
+Burvie,Burkholderia vietnamiensis
+Butti,Buttiauxella species
+Camcol,Campylobacter coli
+Camjeco,Campylobacter jejuni-coli
+CamjecoG,Campylobacter coli
+Camjej,Campylobacter jejuni
+Camjejjej,Campylobacter jejuni spp. Jejuni
+Campylo,Campylobacter species
+Camspe,Campylobacter species
+Canalb,Candida albicans
+Canaur,Candida auris
+Candi,Candida species
+Candub,Candida dubliniensis
+Canfam,Candida famata
+Cangla,Candida glabrata
+Cangui,Candida guilliermondii
+Cankru,Candida krusei
+Canlip,Candida lipolytica
+Canlus,Candida lusitaniae
+Canort,Candida orthopsilosis
+Canparap,Candida parapsilosis
+Canparfam,Candida parapsilosis/famata
+Canspe,Candida pseudotropicalis
+Cantro,Candida tropicalis
+Capno,Capnocytophaga species
+Capspe,Capnocytophaga species
+Cardi,Cardiobacterium species
+Carhom,Cardiobacterium hominis
+Ceddav,Cedecea davisae
+Cedec,Cedecea species
+Cedlap,Cedecea lapagei
+Chrgle,Chryseobacterium gleum
+Chrind,Chryseobacterium indologenes
+Chrmen,Elizabethkingia (Chryseobacterium) meningosepticum
+Chrospe,Chromobacterium species
+Chrys,Chrysosporium species
+Chryseo,Chryseobacterium species
+Chryspe,Chryseobacterium species
+Ciffrec,
+Citama,Citrobacter amalonaticus
+Citbra,Citrobacter braakii
+Citfar,Citrobacter farmeri
+CitFcomp,Citrobacter freundii complex
+Citfre,Citrobacter freundii
+Citkos,Citrobacter koseri
+Citmur,Citrobacter murliniae
+Citro,Citrobacter species
+Citsed,Citrobacter sedlakii
+Citwer,Citrobacter werkmanii
+Cityou,Citrobacter youngae
+Cloclo,Clostridium clostridioforme
+Cloinn,Clostridium innocuum
+Clonps,Clostridium species not perfringens or septicum
+Cloper,Clostridium perfringens
+Cloram,Clostridum ramosum
+Closep,Clostridium septicum
+Closor,Paeniclostridium (Clostridium) sordellii
+Clospe,Clostridium species
+Clospe ae,"Clostridium species, aerotolerant"
+Cloter,Clostridium tertium
+Cns,Staphylococcus species (Coagulase Negative)
+Comam,Comamonas species
+Comspe,Comamonas species
+Comtes,Comamonas terrigena
+Coracc,Corynebacterium accolens
+Coramy,Corynebacterium amycolatum
+Corbov,Corynebacterium bovis
+Cordip,Corynebacterium diptheriae
+Corglu,Corynebacterium glucuronolyticum
+Corjei,Corynebacterium jeikeium
+Corkro,Corynebacterium kroppenstedtii
+Cormac,Corynebacterium macginleyi
+Cormin,Corynebacterium minutissimum
+Corpse,Corynebacterium pseudodiphtheriticum
+Corstr,Corynebacterium striatum
+Corure,Corynebacterium urealyticum
+Corure Pr,Presumptive Corynebacterium urealyticum
+Coryn,Corynebacterium species
+Corynespe,Corynebacterium species
+Corytub,Corynebacterium tuberculostearicum
+Cronobspe,Cronobacter species
+Crosak,Cronobacter sakazakii
+Crosakgrp,Cronobacter sakazakii group
+Cuppau,Cupriavidus pauculus
+Cuprispe,Cupriavidus (Ralstonia) species
+Cuprpau,Wautersia pauculus (Cupriavidus pauculus)
+Curspe,Curtobacterium species
+Delaci,Delftia acidovorans
+Delft,Delftia species
+Derhom,Dermabacter hominis
+Dermab,Dermabacter species
+Desulfo,Desulfovibrio species
+Dips,Diphtheroids
+Dipsnli,Diphtheroids (Not Listeria)
+Dlf,Dark Lactose Fermenting Gram Negative Rods
+DLR,
+EC,Escherichia coli
+EC/SH,Escherichia coli/Shigella species
+Ecocsp,Enterococcus species
+EcocVR,"Enterococcus species, Vancomycin Resistant"
+Ecocvs,"Enterococcus species, Vancomycin Susceptible"
+Edwtar,Edwardsiella species
+Egglen,Eggerthella lenta
+Eikcor,Eikenella corrodens
+Eiken,Eikenella species
+Elimir,Elizabethkingia miricola
+Elizaano,Elizabethkingia anophelis
+Elizameni,Elizabethkingia meningoseptica
+Elizaspe,Elizabethkingia species
+Entaer,Klebsiella (Enterobacter) aerogenes
+Entamn,Lelliottia amnigena (Formerly Enterobacter amnigenus)
+Entasb,Enterobacter absuriae
+Entavi,Enterobacter avium
+Entcan,Enterobacter cancerogenus
+Entcas,Enterococcus casseliflavus
+Entcasent,Enterococcus casseliflavus/Enterococcus gallinarum
+Entcec,Enterococcus cecorum
+Entclo,Enterobacter cloacae
+Entcloasb,Enterobacter cloacae/asburiae
+Entclocom,Enterobacter cloacae complex
+Entdur,Enterococcus durans
+EntericF,Enterbacteriaceae Family
+Entero,Enterobacteriacaea
+Enteroba,Enterobacter species
+Enteroco,Enterococcus species
+Enterospe,Enterobacteriacaea species
+Entfaeca,Enterococcus faecalis
+Entfaeci,Enterococcus faecium
+Entgal,Enterococcus gallinarum
+Entger,Pluralibacter (Enterobacter) gergoviae
+EntGRD,Enterococcus Group D
+Enthir,Enterococcus hirae
+Enthor,Enterobacter hormaechei
+Entint,Kluyvera (Enterobacter) intermedius
+Entkob,Enterobacter kobei
+Entraf,Enterococcus raffinosus
+Entsacch,Enterococcus saccharolyticus
+Entsak,Enterobacter sakazakii
+Erwin,Erwinia species
+Erwspe,Erwinia species
+Eryrhu,Erysipelothrix rhusiopathiae
+Escfer,Escherichia fergusonii
+Esche,Escherichia species
+Escher,Escherichia hermannii
+Escspe,Escherichia species
+Escvul,Pseudescherichia (Escherichia) vulneris
+Ewiame,Ewingella americana
+Ewing,Eqingella species
+Fackl,Facklamia species
+Fineg,Finegoldia species
+Finmag,Finegoldia magna
+Flaspe,Flavobacterium species
+Flavo,Flavobacterium species
+Fusmor,Fusobacterium mortiferum
+Fusnecrop,Fusobacterium necrophorum
+Fusnfnuc,Fusobacterium species Not Fusobacterium nucleatum
+Fusnuc,Fusobacterium nucleatum
+Fusob,Fusobacterium species
+G,
+Gamma,Gamma-Hemolytic Streptococcus
+Gember,Gemella bergeri
+Gemel,Gamella species
+Gemhae,Gemella haemolysans
+Gemmor,Gemella morbillorum
+Gemsan,Gemella sanguinis
+Glucose-NFGNB,Glucose Non-Fermenting Gram Negative Bacilli
+GNR,Gram Negative Rods
+GNR Secti,Gram Negative Rods Section
+Gnr-ox,"Gram Negative Rods, Oxidase Positive"
+GnroxF,"Gram Negative Rods, Oxidase Positive Family"
+Gorter,Gordonia terrae
+GPBac,Gram Positive Bacteria
+Gpc,Gram Positive Cocci
+GPC Section,Gram Positive Cocci Section
+GPR,Gram Positive Rods
+GPR DLR,Gram Positive Diphtheroid-like Rods
+Gprdips,Gram Positive Rods resembling Diphtheroids
+Gprnle,Aerobic Gram Positive Rod not Listeria or Erysippelothrix
+Graadi,Granulicatella adiacens
+Granu,Granulicatella species
+Gulosispe,Gulosibacter species
+Haeact,Aggregatibacter (Haemophilus) actinomycetemcomitans
+Haeaph,Aggregatibacter (Haemophilus) aphrophilus
+Haehae,Aggregatibacter haemolyticus
+Haeinf,Haemophilus influenzae
+Haemo,Haemophilus species
+Haeparah,Haemophilus parahaemolyticus
+Haeparai,Haemophilus parainfluenzae
+Haesig,Aggregatibacter (Haemophilus) segnis
+Haespe,Haemophilus species
+Hafalv,Hafnia alvei
+Hafni,Hafnia species
+Hafpar,Halfnia paralvei
+Helpyl,Helicobacter pylori
+Herbspe,Herbaspirillum species
+Inqlim,Inquilinus limosus
+Kergyi,Kerstersia gyiorum
+Kerst,Kerstersia species
+Kinden,Kingella denitrificans
+Kinkin,Kingella kingae
+Klebspe,Klebsiella species
+Kleoxy,Klebsiella oxytoca
+Kleoza,Klebsiella ozaenae
+Klepne,Klebsiella pneumoniae
+Klepneoza,Klebsiella pneumoniae subsp ozaenae
+Klepnepne,Klebsiella pneumoniae subsp pneumoniae
+Klepnerhi,Klebsiella pneumoniae subsp rhinoscleromatis
+Klepnvar,Klebsiella pneumoniae/variicola
+Klevar,Klebsiella variicola
+Kluasc,Kluyvera ascorbata
+Klucry,Kluyvera cryocrescens
+Kluspe,Kluyvera species (Formerly called Enterobacter intermedius)
+Kluyv,Kluyvera species Genus
+Kockri,Kocuria kristinae
+Kocrhizo,Kocuria rhizophila
+Kytoc,Kytococcus species
+Kytsch,Kytococcus schroeteri
+Lacbacsp,Lactobacillus species
+Lacfar,Lactococcus garvieae
+Lacjen,Lactobacillus jensenii
+Laclac,Lactococcus lactis
+Lacspe,Lactococcus species
+Lacto,Lactobacillus species
+Lanfiespe,Lancefieldella species
+Lecade,Leclercia adecarboxylata
+Lecle,Leclercia species
+Leuco,Leuconostoc species
+Leumes,Leuconostoc mesenteroides
+Lismon,Listeria monocytogenes
+Miclut,Micrococcus luteus
+Micmic,Parvimonas micra (formerly Peptostretococcus micros)
+Micro,Micrococcus species
+Microbac,Microbacterium species
+Microspe,Micrococcus species
+Micstre,Microaerophilic Strep
+Mlf,Mucoid Lactose Fermenting Gram Negative Rods
+Morcan,Moraxella canis
+Morcat,Moraxella catarrhalis
+Morga,Morganella species
+Morgrp,Moraxella group
+Mormor,Morganella morganii
+Mormormor,Morganella morganii ssp. morganii
+Mormorsib,Morganella morganii ssp. sibonii
+Mornon,Moraxella nonliquefaciums
+Morosl,Moraxella osloensis
+MRSA,Methicillin-Resistant Staphylococcus aureus
+MRSAscv,Methicillin-Resistant Staphylococcus aureus. Small colony variant
+MRSL,Methicillin-Resistant Staphylococcus lugdunensis
+MSSA,Methicillin-Susceptible Staphyloccus aureus
+MTB,Mycobacterium tuberculosis
+Mycabs,Mycobacterium abscessus subsp abscessus
+Mycabsbol,Mycobacterium abscessus subsp abscessus/bolletti
+Mycabsc,Mycobacterium abscessus
+Mycabscom,Mycobacterium abscessus complex
+Mycbol,Mycobacterium abscessus subsp bolletti
+Mycbov,Mycobacterium bovis
+MycbovBCG,Mycobacterium bovis BCG
+Mycche,Mycobacterium chelonae
+MycChlNsp,Mycobacterium chelonae-like novel species
+Mycfor,Mycobacterium fortuitum
+Mycforcmpx,Mycobacterium fortuitum complex
+Mycforgp,Mycobacterium fortuitum group
+Mycfrank,Mycobacterium franklinii
+Mycgoo,Mycobacterium goodii
+Mychom,Mycoplasma hominis
+Mycimm,Mycobacterium immunogenum
+Myclla,Mycobacterium llatzerense
+Mycmag,Mycobacterium mageritense
+Mycmas,Mycobacterium abscessus subsp massilliense
+Mycmuc,Mycobacterium mugogenicum
+Mycmuph,Mycobacterium mugogenicum or Mycobacterium phocacium
+Mycneo,Mycobacterium neoaurum
+Mycper,Mycobacterium peregrinum
+Mycpho,Mycobacterium phocaicum
+Mycporc,Mycobacterium porcinum
+Mycsme,Mycobacterium smegmatis
+Myctbcp,Mycobacterium tuberculosis complex
+Myroi,Myroides species
+Myrspe,Myroides species
+Neigon,Neisseria gonorrhoeae
+Neimen,Neisseria meningitidis
+Neisap,Saprophytic Neisseria species
+Nhstrep,Nonhemolytic Streptococci
+Nhstrepne,"Nonhemolytic Strep, not Enterococcus"
+Nlf,Non lactose fermenting gram negative rod
+Ochant,Ochrobactrum anthropi
+Ochro,Ochrobactrum species
+Olige,Oligella species
+Oliureo,Oligella ureolytica
+Oliuret,Oligella urethralis
+Organism,Generic organism
+PA,Pseudomonas aeruginosa
+Paeni,Paenibacillus species
+Pamuc,"Pseudomonas aeruginosa, mucoid strain"
+Panagg,Pantoea agglomerans
+Pandis,Pantoea dispersa
+Pando,Pandoraea species
+Panmuc,"Pseudomonas aeruginosa, Non-Mucoid Strain"
+Panpul,Pandoraea pulmonicola
+Panspe,Pantoea species
+Panspu,Pandoraea sputorum
+Panto,Pantoea species
+Parvimicra,Parvimonas micra (formerly Peptostretococcus micros)
+Pascan,Pasteurella canis
+Pasmul,Pasteurella multocida
+PasmulG,Pasteurella multocida
+Pasnotm,Pasteurella species not P. multocida
+Paspne,Pasteurella pneumotropica
+Passpe,Pasturella species
+Paste,Paseurella species
+Pedaci,Pediococcus acidilactici
+Pedio,Pediococcus species
+Pepasa,Peptoniphilus asaccharolyticus
+Peptoc,Peptococcus species
+Peptos,Peptostreptococcus species
+Pleshi,Plesiomonas shigelloides
+Plesi,Plesiomonas species
+Plespe,Plesiomonas species
+Pmpp,Proteus mirabilis/penneri
+PPPV,Proteus penneri/vulgaris
+Pr,
+Prebiv,Prevotella bivia
+Prebuccae,Prevotella buccae
+Preden,Prevotella denticola
+Premel,Prevotella melaninogenica
+PreSTP,Presumptive Streptococcus pneumoniae
+Prevo,Prevotella species
+Proacn,Cutibacterium (Propionibacterium) acnes
+Proalc,Providencia alcalifaciens
+Proavi,Cutibacterium (Propionibacterium) avidum
+Prohau,Proteus hauseri
+Promir,Proteus mirabilis
+PromirG,Proteus mirabilis
+Propen,Proteus penneri
+Propi,Propionibacterium species
+Proret,Providencia rettgeri
+Prospe,Proteus species
+Prostu,Providencia stuartii
+Prote,Proteus species
+Provi,Providencia species
+Provpn,Proteus vulgaris group/Proteus penneri
+Provul,Proteus vulgaris
+Psealc,Pseudomonas alcaligenes
+Pseflu,Pseudomonas fluorescens 
+Pseflugrp,Pseudomonas fluorescens group
+Pselut,Pseudomonas luteola
+Psemen,Pseudomonas mendocina
+PseNA,Pseudomonas species not aeruginosa
+Pseory,Pseudomonas oryzihabitans
+Psepsealc,Pseudomonas pseudoalcaligenes
+Pseput,Pseudomonas putida
+Psespe,Pseudomonas species
+Psestu,Pseudomonas stutzeri
+Pseucumm,Pseudoglutamicibacter cumminsii
+Pseudo,Pseudomonas species
+Psych,Psychobacter species
+Rahaqu,Rahnella aquatilis
+Rahne,Rahnella species
+Ralman,Ralstonia mannitolilytica
+Ralpic,Ralstonia pickettii
+Ralspe,Ralstonia species
+Raoorn,Raoultella ornithinolytica
+Raopla,Raoultella planticola
+Raoter,Raoultella terrigena
+Raoul,Raoultella species
+Raouspe,Raoultella species
+Rapid,
+Rhirad,Rhizobium radiobacter
+Rhizob,Rhizonium species
+Roseo,Roseomonas species
+Rosspe,Roseomonas species
+Rotden,Rothia dentocariosa
+Rothi,Rothia species
+Rotmuc, Rothia mucilaginosa
+Rumgna,Ruminococcus gnavus
+SA,Staphylococcus aureus
+Saccer,Saccharomyces cerevisiae
+Salent,Salmonella enteritidis (Serogroup D1)
+Salentdia,Salmonella enterica ssp diarizonae
+SalGD,"Salmonella species, Group D"
+Salgrp,Salmonella Group
+Salmo,Salmonella species
+Salpta,Salmonella ser. Paratyphi A
+SalspD,Salmonella species serogroup D
+Salspe,Salmonella species
+SalspND,Salmonella species not Group D
+Salstyp,Salmonella ser. Typhi
+SCN,Staphylococcus species (Coagulase Negative)
+Secti,
+Serfic,Serratia ficaria
+Serfon,Serratia fonticola
+Sergri,Serratia grimesii
+Serliq,Serrata liquefaciens
+Serliqg,Serratia liquefaciens group
+Sermar,Serratia marcescens
+Serodo,Serratia odorifera
+Serply,Serratia plymuthica
+Serprs,Serratia proteamaculans
+Serra,Serratia species
+Serrub,Serratia rubidaea
+Shealg,Shewanella algae
+Sheput,Shewanella putrefaciens
+Shewa,Shewanella species
+Shifle,Shigella flexneri
+Shige,Shigella species
+Shigrp,Shigella group
+Shison,Shigella sonnei
+Shispe,Shigella species
+Slf,Slow Lactose Fermenting Gram Negative Rods
+Sphingob,Sphingobacterium species
+Sphingom,Sphinomonas species
+Sphmul,Sphingobacterium multivorum
+Sphpau,Sphinomonas paucimobilis
+Sphspi,Sphingobacterium spiritivorum
+Sphtha,Sphingobacterium thalpophilum
+Staaur,Staphylococcus auricularis (Coagulase Negative)
+Staaurscv,"Staphylococcus aureus, small colony variant"
+Stacapi,Staphylococcus capitus (Coagulase Negative)
+Stacapr,Staphylococcus caprae
+Stacarcar,Staphylococcus carnosus ssp carnosus
+Stacarn,Staphylococcus carnosus
+Stachr,Staphylococcus chromogenes
+Stacoh,Staphylococcus cohnii (Coagulase Negative)
+Stacohcoh,Staphylococcus cohnii ssp cohnii (Coagulase Negative)
+Stacohure,Staphylococcus cohnii spp urealyticum (Coagulase Negative)
+Staepi,Staphylococcus epidermidis (Coagulase Negative)
+Staequ,Staphylococcus equorum
+Stahae,Staphylococcus haemolyticus (Coagulase Negative)
+Stahom,Staphylococcus hominis (Coagulase Negative)
+Stahomhom,Staphylococcus hominis ssp hominis (Coagulase Negative)
+Stahyi,Staphylococcus hyicus
+Staint,Staphylococcus intermedius
+Staintergp,Staphylococcus intermedius group
+Staklo,Staphylococcus kloosii
+Stalen,Staphylococcus lentus
+Stalug,Staphylococcus lugdunensis (Coagulase Negative)
+Staph,Staphylococcus Genus
+Stapseint,Staphylococcus pseudintermedius
+Stapsuint,Staphylococcus pseudintermedius/intermedius
+Stasac,Staphylococcus saccharolyticus
+Stasap,Staphylococcus saprophyticus (Coagulase Negative)
+Stasch,Staphylococcus schleiferi
+Stasci,Staphylococcus sciuri (Coagulase Negative)
+Stasim,Staphylococcus simulans (Coagulase Negative)
+Staspe,Staphylococcus species
+Stavit,Staphylococcus vitulinus
+Stawar,Staphylococcus warneri (Coagulase Negative)
+Staxyl,Staphylococcus xylosus
+Stemal,Stenotrophomonas maltophilia
+StemalG,Stenotrophomonas maltophilia
+Steno,Stenotrophomonas species
+Stenospe,Stenotrophomonas species
+Sterhi,Stenotrophomonas rhizophila
+Strala,Streptococcus alactolyticus (Streptococcus bovis group)
+Strang,Streptococcus anginosus
+strangrp,Streptococcus anginosus group
+Strcan,Streptococcus canis (Group G)
+Strcon,Streptococcus constellatus
+Strconcon,Streptococcus constellatus subsp constellatus
+Strconpha,Streptococcus constellatus subsp pharyngis
+StrCris,Streptococcus cristatus
+Strdyeqdy,Streptococcus dysgalactiae ssp equisimilis/ssp dysgalactiae
+Strdys,Streptococcus dysgalactiae (Group C/G)
+Strdysdys,Streptococcus dysgalactiae subsp dysgalactiae
+Strdysequ,Streptococcus dysgalactiae subsp equisimilis
+Strep,
+Strep A,Streptococcus pyogenes (Group A)
+Strep B,Streptococcus agalactiae (Group B)
+Strep C,"Beta Hemolytic Streptococci, Group C"
+Strep G,"Beta Hemolytic Streptococci, Group G"
+Strep hali,Streptococcus halichoeri
+Streptoc,Streptococcus species
+Strespe,Streptococcus species
+Strgal,Streptococcus gallolyticus (Streptococcus bovis group)
+Strgalgal,Streptococcus gallolyticus ssp gallolyticus
+Strgalpas,Streptococcus gallolyticus ssp pasteurianus
+Strgor,Streptococcus gordonii
+Strinf,Streptococcus infantarius (Streptococcus bovis group)
+Strinfcol,Streptococcus infantarius ssp coli
+Strinfinf,Streptococcus infantarius ssp infantarius
+Strint,Streptococcus intermedius
+Strmilgrp,Streptococcus milleri group
+Strmit,"Streptococcus mitis, viridans group"
+Strmitis,Streptococcus mitis
+Strmitora,Streptococcus mitis/Streptococcus oralis
+Strmut,Streptococcus mutans
+Strnec,"Streptococcus species, not Enterococcus"
+Strparas,Streptococcus parasanuinis
+Strpne,Streptococcus pneumoniae
+StrpneG,Streptococcus pneumoniae
+Strporpse,Streptococcus porcinus/pseudoporcinus
+Strppor,Streptococcus pseudoporcinus
+Strpse,Streptococcus pseudopneumoniae
+Strsal,Streptococcus salivarius
+Strsalgp,Streptococcus salivarius group
+Strsalsal,Streptococcus salivarius ssp salivarius
+Strsalsv,"Streptococcus salivarius, viridans group"
+Strsan,Streptococcus sanguinis
+Strube,Streptococcus uberis
+Strvir,Streptococcus viridans group
+Sv,Viridans Streptococcus
+Truespe,Trueperella species
+Vagflu,Vagococcus fluvialis
+Veill,Veillonella species
+Veillspe,Veillonella species
+Veipar,Veillonella parvula
+Vibalg,Vibrio alginolyticus
+Vibcho,Vibrio cholerae
+Vibdam,Protobacterium damsela (formerly Vibrio damsela)
+Vibflu,Vibrio fluvialis
+Vibhar,Vibrio harveyi
+Vibmim,Vibrio mimucus
+Vibpar,Vibrio parahaemolyticus
+Vibri,Vibrio species
+Vibspe,Vibrio species
+Vibvul,Vibrio vulnificus
+VRE,Vancomycin-resistant enterococci
+Waupau,Wautersia paucula
+Weeks,Weeksella species
+Weicon,Weissella confusa
+Weiss,Weissella species
+Yeast,Yeast family
+Yerent,Yersinia enterocolitica
+Yerfre,Yersinia frederiksenii
+Yersi,Yersinia species
+Yoken,Yokenella species
+Yokreg,Yokenella regensburgei
+Yst,Yeast
